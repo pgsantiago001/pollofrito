@@ -1,0 +1,57 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-05-20 16:24:54 --> 404 Page Not Found: ObtenerLstaPedidos/index
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-05-20 16:24:54 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 16:25:12 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 16:25:12 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 16:25:12 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 16:25:12 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 16:25:15 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 16:25:15 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 16:25:20 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 16:25:20 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 16:26:44 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 16:26:44 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 16:40:33 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 16:40:33 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 16:49:04 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 16:49:04 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 17:00:28 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 17:00:28 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 17:33:05 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 17:33:05 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 17:33:36 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 17:33:36 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 18:43:09 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 18:43:09 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 18:43:14 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 18:43:14 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 18:43:14 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 18:43:14 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 18:43:17 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 18:43:17 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 18:43:22 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 18:43:22 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 18:44:05 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 18:44:05 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 18:51:49 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 18:51:49 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 19:53:04 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 19:53:04 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 20:34:03 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 20:34:03 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 21:03:48 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 21:03:48 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 21:39:23 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 22:12:28 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 22:12:28 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 22:12:56 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 22:12:56 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 22:33:07 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 22:33:07 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 22:33:16 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 22:33:16 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 23:50:06 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-05-20 23:50:06 --> 404 Page Not Found: ObtenerLstaPedidos/index

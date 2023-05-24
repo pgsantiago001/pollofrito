@@ -1,0 +1,97 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-04-11 00:48:24 --> 404 Page Not Found: ObtenerLstaPedidos/index
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-04-11 00:48:24 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 00:48:30 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 00:48:30 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 00:48:35 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 00:48:35 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 00:48:35 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 00:48:35 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 00:48:37 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 00:48:37 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 00:48:42 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 00:48:42 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 00:48:46 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 00:48:46 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 01:06:28 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 01:06:29 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 01:06:53 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 01:06:53 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 01:07:02 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 01:07:02 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 01:07:02 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 01:07:02 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 01:07:04 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 01:07:05 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 01:07:08 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 01:07:08 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 01:07:24 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 01:07:24 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 01:07:28 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 01:07:28 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 01:07:32 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 01:07:32 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 17:15:53 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 17:15:53 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 17:16:43 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 17:16:43 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 17:16:43 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 17:16:43 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 17:16:46 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 17:16:46 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 17:16:50 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 17:16:50 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 18:02:53 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 18:02:53 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 18:03:27 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 18:03:27 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 18:03:39 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 18:03:39 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 18:03:50 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 18:03:50 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 18:38:30 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 18:38:30 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 18:41:41 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 18:41:41 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 18:41:57 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 18:41:57 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 19:00:34 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 19:00:34 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 19:15:32 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 19:15:32 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 19:17:35 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 19:17:35 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 19:21:38 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 19:21:38 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 19:38:01 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 19:38:01 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 19:38:20 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 19:38:20 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 20:18:05 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 20:18:05 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 20:21:48 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 20:21:48 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 20:22:07 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 20:22:07 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 20:35:13 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 20:35:13 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 20:35:26 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 20:35:26 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 20:38:06 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 20:38:06 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 20:39:08 --> Query error: Unknown column 'C' in 'where clause' - Invalid query: SELECT idgs_cliente, nit, nombre, direccion_cont FROM gs_cliente WHERE nit = C/Fm
+ERROR - 2023-04-11 20:39:08 --> Query error: Unknown column 'C' in 'where clause' - Invalid query: SELECT idgs_cliente, nit, nombre, direccion_cont FROM gs_cliente WHERE nit = C/Fmi
+ERROR - 2023-04-11 20:39:09 --> Query error: Unknown column 'C' in 'where clause' - Invalid query: SELECT idgs_cliente, nit, nombre, direccion_cont FROM gs_cliente WHERE nit = C/Fm
+ERROR - 2023-04-11 20:39:09 --> Query error: Unknown column 'C' in 'where clause' - Invalid query: SELECT idgs_cliente, nit, nombre, direccion_cont FROM gs_cliente WHERE nit = C/F
+ERROR - 2023-04-11 20:40:22 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 20:40:22 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 21:25:58 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 21:41:36 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 21:41:36 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 21:47:12 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 21:47:12 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 22:05:44 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-04-11 22:05:44 --> 404 Page Not Found: ObtenerLstaPedidos/index

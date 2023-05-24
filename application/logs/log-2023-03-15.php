@@ -1,0 +1,89 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-03-15 00:19:44 --> 404 Page Not Found: ObtenerLstaPedidos/index
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-03-15 00:19:44 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 00:32:18 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 00:32:18 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 00:41:32 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 00:45:38 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 00:45:38 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 00:48:48 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 00:48:48 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 00:48:53 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 00:49:00 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 00:49:00 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 00:49:06 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 00:49:20 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 16:09:20 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 16:09:20 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 16:11:30 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 16:11:30 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 16:11:30 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 16:11:30 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 16:11:46 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 16:11:46 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 16:11:50 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 16:11:50 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 17:33:53 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 17:33:53 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:19:53 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:19:54 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:19:54 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:19:54 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:20:02 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:20:02 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:20:02 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:20:02 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:20:08 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:20:08 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:20:14 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:20:14 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:20:15 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:20:15 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:20:18 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:20:18 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:21:22 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:21:22 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:24:08 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:24:08 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:25:00 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:25:00 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 12:25:49 --> Severity: Notice --> Undefined variable: producto /home/sb3vagr5z3bw/public_html/pollofrito/application/views/Productos/product_tabla.php 58
+ERROR - 2023-03-15 12:25:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/sb3vagr5z3bw/public_html/pollofrito/application/views/Productos/product_tabla.php 59
+ERROR - 2023-03-15 18:26:03 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:26:03 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:26:11 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:26:11 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:54:08 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:54:08 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 19:03:20 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 19:03:20 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 19:11:18 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 19:11:18 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 19:42:10 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 19:42:10 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 19:52:34 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 19:52:34 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 19:55:06 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 19:55:06 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 20:09:06 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 20:09:07 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 20:21:34 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 20:24:31 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 20:24:31 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 20:24:35 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 20:24:35 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 20:24:51 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 20:24:51 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 21:15:37 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 21:15:37 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 22:03:45 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 23:24:06 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 23:28:34 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 23:28:34 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 23:32:57 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 23:32:57 --> 404 Page Not Found: ObtenerLstaPedidos/index
+ERROR - 2023-03-15 18:44:12 --> Severity: Notice --> Undefined variable: producto /home/sb3vagr5z3bw/public_html/pollofrito/application/views/Productos/product_tabla.php 58
+ERROR - 2023-03-15 18:44:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/sb3vagr5z3bw/public_html/pollofrito/application/views/Productos/product_tabla.php 59
